@@ -21,12 +21,12 @@ Below are examples of basic Windows navigation using CMD and PowerShell.
 ## Commands used
 CMD:
 ```bash
-dir      # displays the contents of a directory
+dir      # displays files and directories in the current location (CMD)
 ```
 
 PowerShell:
 ```bash
-Get-ChildItem      #lists files and directories 
+Get-ChildItem      # lists files and directories with structured output (PowerShell)
 ```
 
 ---
@@ -39,4 +39,4 @@ Get-ChildItem      #lists files and directories
 ---
 
 ## Summary
-I successfully prepared my local environment for future learning.
+I successfully prepared my local Windows lab environment and learned basic system navigation using CMD and PowerShell.
